@@ -1,0 +1,26 @@
+﻿  main.cpp
+D:\C++\CS2 External\CS2 External\CS2 External\Valve\memory.h(31,62): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\C++\CS2 External\CS2 External\CS2 External\Valve\memory.h(47,71): warning C4244: 'argument': conversion from 'const uintptr_t' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\C++\CS2 External\CS2 External\CS2 External\Valve\Vector.h(49,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\C++\CS2 External\CS2 External\CS2 External\Valve\hacks.h(54,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\C++\CS2 External\CS2 External\CS2 External\Valve\hacks.h(79,51): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\C++\CS2 External\CS2 External\CS2 External\Valve\hacks.h(78,51): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\C++\CS2 External\CS2 External\CS2 External\main.cpp(161,13): warning C4101: 'Local_Idx': unreferenced local variable
+  Generating code
+  0 of 1594 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CS2 External.vcxproj -> D:\C++\CS2 External\CS2 External\x64\Release\CS2 External.exe
